@@ -1,0 +1,27 @@
+/* Importing Courier Font */
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+body {
+    background-color: black;
+    color: #20C20E;
+    font-family: 'Courier Prime', monospace;
+    font-weight: lighter;
+}
+
+input {
+    border: 1px solid #20C20E;
+    background-color: black;
+    color: #20C20E;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+#file {
+    display: none;
+}
+
+#msg {
+    display: none;
+}
